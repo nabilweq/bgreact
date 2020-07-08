@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#root{
+    display: flex;
+    background: rgb(208, 14, 247);
+    width:100%;
+    height:100px;
+    color: white;
+    justify-content: center;
+    font-family: 'google sans';
+
+    
+}
+botton{
+    border: none;
+    border-radius: 3rem;
+}
